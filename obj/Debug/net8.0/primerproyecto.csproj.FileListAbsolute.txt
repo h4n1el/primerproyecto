@@ -1,0 +1,14 @@
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\primerproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\primerproyecto.AssemblyInfoInputs.cache
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\primerproyecto.AssemblyInfo.cs
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\primerproyecto.csproj.CoreCompileInputs.cache
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\primerproyecto.dll
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\refint\primerproyecto.dll
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\primerproyecto.pdb
+C:\estructura de datos\primerproyecto\bin\Debug\net8.0\primerproyecto.exe
+C:\estructura de datos\primerproyecto\bin\Debug\net8.0\primerproyecto.deps.json
+C:\estructura de datos\primerproyecto\bin\Debug\net8.0\primerproyecto.runtimeconfig.json
+C:\estructura de datos\primerproyecto\bin\Debug\net8.0\primerproyecto.dll
+C:\estructura de datos\primerproyecto\bin\Debug\net8.0\primerproyecto.pdb
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\primerproyecto.genruntimeconfig.cache
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\ref\primerproyecto.dll
