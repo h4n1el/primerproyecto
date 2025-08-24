@@ -1,32 +1,28 @@
 ﻿
-namespace numeracion
+
+namespace recursividad
 {
     public class Program
     {
         public static void Main(string[] args)
         {
-            int numero;
-            Console.WriteLine("ingresa un numero, imbecil");
-            numero = Convert.ToInt32(Console.ReadLine());
-
-            if (numero >= 70 && numero <= 80)
-            {
-                Console.WriteLine(" tu nota es C, jodio etupido");
-            }
-            else if (numero >= 80 && numero <= 90)
-            {
-                Console.WriteLine("cabron tu nota es B");
-            }
-            else if (numero >= 90 && numero <= 100)
-            {
-                Console.WriteLine("tu fucking nota es A mamabicho");
-            }
-
-            Console.ReadKey();
-       
-
-
+            Console.WriteLine("ingresa el numero de inicio de la recursividad");
+            int numero = Convert.ToInt32(Console.ReadLine());
+            recursividad(numero);
         }
-    }
-}
+        public static void recursividad(int numero)
+        {
+            if (numero <= 0)
+            {
+                Console.WriteLine("fin de la cuenta regresiva");
+                return;
+            }
+            Console.WriteLine($"contando {numero}");
+            recursividad(numero - 1);
+        }
 
+
+    }
+    
+}
+// crea un codigo de recursividad y luego subelo a git hub

@@ -12,3 +12,4 @@ C:\estructura de datos\primerproyecto\bin\Debug\net8.0\primerproyecto.dll
 C:\estructura de datos\primerproyecto\bin\Debug\net8.0\primerproyecto.pdb
 C:\estructura de datos\primerproyecto\obj\Debug\net8.0\primerproyecto.genruntimeconfig.cache
 C:\estructura de datos\primerproyecto\obj\Debug\net8.0\ref\primerproyecto.dll
+C:\estructura de datos\primerproyecto\obj\Debug\net8.0\primerproyecto.sourcelink.json
